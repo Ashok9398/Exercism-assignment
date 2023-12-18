@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoferTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-18T03:31:56" hostname="DESKTOP-VNS23H9" time="0.046">
+  <properties/>
+  <testcase name="noNameGiven" classname="TwoferTest" time="0.041"/>
+  <testcase name="aNameGiven" classname="TwoferTest" time="0.004"/>
+  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
